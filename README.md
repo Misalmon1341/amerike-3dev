@@ -10,6 +10,8 @@ Lista de documentos:
 - [Teoría _Terminal_](https://jonmircha.com/terminal)
 - [Teoría _Markdown_](https://jonmircha.com/markdown)
 - [Teoría _Git_](https://jonmircha.com/git)
+- [Hablemos de Programación](https://jonmircha.com/programacion)
+- [Hablemos de Inteligencia Artificial](./mds/IA.md)
 
 A continuación vamos a ver lo que son las etiquetas
 
