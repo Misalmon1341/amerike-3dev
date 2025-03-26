@@ -14,17 +14,6 @@ Hola soy tu amigo y docente digital... Jonathan Mircha
 
 ## Estudiantes
 
-### Jose Luis Quijas Olmedo
- 
-Un estudiante de Amerike que esta especializadoce en C#, para tener amplia experiencia en la creación de proyectos interactivos y soluciones integradas de hardware y software.
- 
-- [cdmx2383@amerike.edu.mx](cdmx2383@amerike.edu.mx) 
-- [joseluis_GitHub_](https://github.com/joseluis252001) 
- 
-![Jose Luis](https://statics.bigbangnews.com/2024/05/crop/6643abe225df3__912x912.webp) 
- 
----
-
 ### Alejandro Limon Perez
 
 Soy una persona muy tranquila y que esta estudiando para hacer videojuegos
@@ -38,9 +27,28 @@ Soy una persona muy tranquila y que esta estudiando para hacer videojuegos
 
 ### Victor Gabriel Bojorges Hermosillo
 
-Soy un estudiante de la carrera 3ero Desarrollo de Software Interactivo y Videojuegos y me gustaria mucho aprender a programar videojuegos y expandir mis conocimientos en diferentes areas.
+Soy una persona muy tranquila y que esta estudiando para hacer videojuegos
 
--[cdmx2913@amerike.edu.mx](cdmx2913@amerike.edu.mx)
--[VicBojoDev10](https://github.com/VicBojoDev10)
+- [cdmx2960@amerike.edu.mx](tucorreo@amerike.edu.mx)
+- [Mi perfil de _GitHub_](https://github.com/Angry6irds)
 
+![Tu nombre](https://chedrauimx.vtexassets.com/arquivos/ids/38927870-800-auto?v=638670752322830000&width=800&height=auto&aspect=true)
 ![VictorBojorges](/img/Vic.jpeg)
+
+### Isai Misael Bautista Olvera
+
+Hola, soy un pequeño hombre con gusto por los videojuegos, desarrollador de videojuegos en proceso... 
+
+- [misagamer@gmail.com](tucorreo@amerike.edu.mx)
+- [Mi perfil de _GitHub_](https://github.com/Misalmon1341)
+
+![Isai Misael Bautista Olvera](../img/misafoto.jpg)
+
+### Jose Luis Quijas Olmedo
+ 
+Un estudiante de Amerike que esta especializadoce en C#, para tener amplia experiencia en la creación de proyectos interactivos y soluciones integradas de hardware y software.
+ 
+- [cdmx2383@amerike.edu.mx](cdmx2383@amerike.edu.mx) 
+- [joseluis_GitHub_](https://github.com/joseluis252001) 
+ 
+![Jose Luis](https://statics.bigbangnews.com/2024/05/crop/6643abe225df3__912x912.webp) 
