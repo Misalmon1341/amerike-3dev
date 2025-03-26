@@ -33,3 +33,14 @@ Soy una persona muy tranquila y que esta estudiando para hacer videojuegos
 - [Mi perfil de _GitHub_](https://github.com/Angry6irds)
 
 ![Alejandro Limon Perez](https://chedrauimx.vtexassets.com/arquivos/ids/38927870-800-auto?v=638670752322830000&width=800&height=auto&aspect=true)
+
+--- 
+
+### Victor Gabriel Bojorges Hermosillo
+
+Soy un estudiante de la carrera 3ero Desarrollo de Software Interactivo y Videojuegos y me gustaria mucho aprender a programar videojuegos y expandir mis conocimientos en diferentes areas.
+
+-[cdmx2913@amerike.edu.mx](cdmx2913@amerike.edu.mx)
+-[VicBojoDev10](https://github.com/VicBojoDev10)
+
+![VictorBojorges](/img/Vic.jpeg)
